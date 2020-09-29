@@ -1,0 +1,1 @@
+[{"email":"admin@mail.com","clave":"40bd001563085fc35165329ea1ff5c5ecbdbbeef","tipo":"admin","foto":"belen_ruiz_720106.jpg"}]
